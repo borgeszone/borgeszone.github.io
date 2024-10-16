@@ -20,7 +20,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot1]]
+![Product Name Screen Shot][product-screenshot1]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -36,7 +36,7 @@
 * [![Svelte][Svelte.dev]][Svelte-url]
 * [![Laravel][Laravel.com]][Laravel-url] -->
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Node][Node.js]][Node-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -105,7 +105,7 @@ This is how the excel looks like with the data entered by the form.
 
 Laura Borges -  borgescaba@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/borgeszone/borgeszone.github.io)
+Project Link: [https://github.com/borgeszone/borgeszone.github.io](https://github.com/borgeszone/borgeszone.github.io)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,7 +123,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/bo
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
+* [Flaticon Icons](https://www.flaticon.es/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -161,5 +161,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/bo
 [Laravel-url]: https://laravel.com
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
+[Node.js]: https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white
+[Node-url]: https://node.org
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
