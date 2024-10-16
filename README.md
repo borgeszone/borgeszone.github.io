@@ -20,7 +20,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot1]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -86,9 +86,15 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+To modify the size of each column of the excel, you have to go into the app.js and define the size one by one.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+![Product Name Screen Shot][product-screenshot3]
+<br />
+<br />
+This is how the excel looks like with the data entered by the form.
+
+![Product Name Screen Shot][product-screenshot2]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,9 +103,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Laura Borges -  borgescaba@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/your_username/repo_name](https://github.com/borgeszone/borgeszone.github.io)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -138,7 +144,9 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[product-screenshot1]: images/captura.png
+[product-screenshot2]: images/captura2.png
+[product-screenshot3]: images/captura3.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
